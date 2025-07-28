@@ -1,0 +1,111 @@
+#one{
+    background-color: #FFEDFA;
+    text-align: center;
+    font-size: 80px;
+    height: 120px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-weight: 350;
+    color: rgb(236, 113, 199);
+
+}
+#two{
+    text-align: center;
+    font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive, Arial, sans-serif;
+    font-weight :500 ;
+    font-size:25px;
+    line-height: 3px;
+    padding-bottom: 50px;
+    color: rgb(190, 10, 109);
+    
+    
+}
+
+#link{
+    text-align: center;
+    height: 40px;
+    background-color: #FFB8E0;
+    padding-left:450px ;
+    padding-top: 10px;
+    font-size: 19px;
+    color: azure;
+    
+}
+
+#three{
+    background-color: #EC7FA9;
+    font-family: overlock'Cinzel Decorative', 'Playfair Display', 'Cormorant Garamond', 'Pacifico', 'Baloo 2', cursive, serif, sans-serif;
+    color: #710355; /* Deep plum, already used, works well for contrast */
+    
+    font-weight: 100;
+    font-size: 27px;
+    text-align: center;
+   padding-top: 50px;
+    padding-left: 100px;
+    height: 120px;
+    letter-spacing: 1.5px;
+    
+    
+}
+#four{
+    
+    font-family: Overlock;
+    font-size:18px;
+    line-height: 30px;
+    padding-left: 220px;
+    
+}
+#five{
+    font-size: 35px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(253, 242, 229);
+    color: chocolate;
+    padding-bottom: 20px;
+    font-family: Overlock'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    height: 80px;
+    
+}
+#six{
+    background-color: #BE5985;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 28px;
+    color: bisque;
+    font-family: Overlock'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+}
+
+#ul1{
+   
+    padding-top: 10px;
+    font-weight: 100;
+    font-family: "Overlock";
+    color: #a9802a;
+    font-size: 23px;
+    
+    
+}
+
+#link{
+    text-align: center;
+}
+#ul2{
+    padding-top: 30px;
+    font-weight: 100;
+    font-family: "Overlock";
+    color: #a9802a;
+    font-size: 23px;
+    
+}   
+#viewmore{
+    text-align: center;
+    font-size: 25px;
+    background-color:rgb(253, 242, 229) ;
+    height: 80px;
+    padding-top: 40px;
+
+}
+
